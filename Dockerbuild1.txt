@@ -1,2 +1,2 @@
 #!/bin/bash 
-docker build -t Myjenkins .
+docker build -t myjenkins .
